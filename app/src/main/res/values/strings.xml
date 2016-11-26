@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flash Notifications</string>
+    <string name="description">Turn your phone\'s flash into a notification LED.</string>
+</resources>

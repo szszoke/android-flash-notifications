@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="defaultRepeatIntervals">
+        <item>10000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>20000</item>
+        <item>20000</item>
+        <item>30000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>40000</item>
+        <item>50000</item>
+        <item>50000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>120000</item>
+        <item>240000</item>
+        <item>360000</item>
+    </integer-array>
+</resources>

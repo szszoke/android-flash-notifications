@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="excludedApps" translatable="false">
+        <item>com.google.android.music</item>
+    </string-array>
+
+    <string-array name="excludedCategories" translatable="false">
+        <item>transport</item>
+        <item>sys</item>
+        <item>progress</item>
+    </string-array>
+</resources>
